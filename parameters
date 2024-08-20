@@ -1,0 +1,9 @@
+10 10 100 251 101 1 51
+./overthrust/vp_migration_251x101.bin
+./overthrust/vs_migration_251x101.bin
+./overthrust/record-vz.su
+./overthrust/record-vx.su
+./overthrust/image
+20 50
+0 0
+1 0 0 1000
