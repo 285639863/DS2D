@@ -1,0 +1,9 @@
+10 10 50 401 201 1 41
+./vp_401x201.bin
+./vs_401x201.bin
+./record-vz.su
+./record-vx.su
+./image
+20 201
+0 0
+1 0 0 1000
